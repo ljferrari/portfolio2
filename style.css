@@ -321,6 +321,11 @@ li .nav-link:hover {
     margin: 0 1.5em;
 }
 
+ .left-icon {
+        margin: 0 auto;
+    }
+
+
 a #cv {
     text-decoration: none;
     color: #FF003A;
@@ -352,6 +357,11 @@ a #cv {
     letter-spacing: 0.06em;
     margin: 0;
 }
+    
+    #copywrite {
+    margin-right: 2em;
+    text-align: right;
+    }
 
 }
 
@@ -431,7 +441,7 @@ a #cv {
 
     }     
     .left-icon {
-        margin-left: 1em;
+        margin-left: 2em;
     }
 
 
