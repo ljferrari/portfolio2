@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="235px" height="66px" viewBox="0 0 235 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OJD-HOVER" transform="translate(-150.000000, -32.000000)" fill="#000000">
+            <g id="Group-2" transform="translate(150.000000, 32.000000)">
+                <text id="L" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-size="14" font-weight="700">
+                    <tspan x="46.6171875" y="62">L</tspan>
+                </text>
+                <text id="J" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-size="14" font-weight="700">
+                    <tspan x="114.617188" y="62">J</tspan>
+                </text>
+                <text id="F" font-family="BrandonGrotesque-Black, Brandon Grotesque" font-size="14" font-weight="700">
+                    <tspan x="183.617188" y="62">F</tspan>
+                </text>
+                <path d="M26.2109366,41.6887207 L0,41.6887207 L0,38.755127 L27.9066282,38.755127 L49.8217773,0.841308594 L71.8506093,38.755127 L96.8098077,38.755127 L118.911621,0.841308594 L140.935619,38.755127 L165.832903,38.755127 L187.830078,0.841308594 L209.907978,38.755127 L234.779297,38.755127 L234.779297,41.6887207 L211.616263,41.6887207 L223.863281,62.7202148 L220.679688,62.7202148 L208.364354,41.6887207 L167.460243,41.6887207 L153.391846,65.907959 L139.325543,41.6887207 L98.4641382,41.6887207 L84.3095703,65.907959 L70.2209267,41.6887207 L29.5258815,41.6887207 L17.3535156,62.7202148 L14.0541992,62.7202148 L26.2109366,41.6887207 Z M73.5550972,41.6887207 L84.3095703,60.1982422 L95.0996729,41.6887207 L73.5550972,41.6887207 Z M142.639733,41.6887207 L153.391846,60.1982422 L164.130864,41.6887207 L142.639733,41.6887207 Z M206.646541,38.755127 L187.830078,6.62133789 L169.1643,38.755127 L206.646541,38.755127 Z M137.621739,38.755127 L118.95874,6.62133789 L100.178633,38.755127 L137.621739,38.755127 Z M68.5144173,38.755127 L49.8217773,6.62133789 L31.2237531,38.755127 L68.5144173,38.755127 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
