@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Ambroise-Regular';
     src: url('Ambroise-Regular.eot');
-    src: url('Ambroise-Regular.woff2') format('woff2'),
+    src: url('Ambroise-Regular.svg#Ambroise-Regular') format('svg'),
+        url('Ambroise-Regular.woff2') format('woff2'),
         url('Ambroise-Regular.woff') format('woff'),
         url('Ambroise-Regular.ttf') format('truetype'),
-        url('Ambroise-Regular.svg#Ambroise-Regular') format('svg'),
         url('Ambroise-Regular.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
@@ -50,7 +50,7 @@ img {
 
 
 .navbar-toggler {
-    border: 2.5px solid black !important;
+    border: 2px solid black !important;
     border-radius: 100px;
     margin: 0 auto;
 }
