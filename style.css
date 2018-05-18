@@ -1,4 +1,5 @@
 @font-face {
+
     font-family: 'Ambroise-Regular';
     src: url('Ambroise-Regular.svg#Ambroise-Regular') format('svg'),
         url('Ambroise-Regular.woff2') format('woff2'),
@@ -7,23 +8,9 @@
         url('Ambroise-Regular.eot?#iefix') format('embedded-opentype');
     font-weight: normal;
     font-style: normal;
+
 }
-
-
-/*@font-face {
-  font-family: 'Ambroise-Regular';
-  src: url('Ambroise-Regular.eot'),
-       url('Ambroise-Regular.woff2') format('woff2'),
-       url('Ambroise-Regular.woff') format('woff'),
-       url('Ambroise-Regular.ttf') format('truetype'),
-       url('Ambroise-Regular.svg#Ambroise-Regular') format('svg'),
-       url('Ambroise-Regular.eot?#iefix') format('embedded-opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-*/
-
+ 
 
 
 html {
@@ -188,7 +175,11 @@ li .nav-link:hover {
 }
 
 #hi {
-    font-family: 'GFS Didot';
+    font-family: 'Ambroise', 'Vidaloka', serif;
+    letter-spacing: 0;
+
+
+
     color: #FF003A;
     font-size: 3.5em;
     text-transform: none;
