@@ -273,6 +273,16 @@ li .nav-link:hover {
     opacity: 1;
 }
 
+.margin-top {
+    margin-top: 4em;
+}
+
+.view-more {
+    padding-top: 4em;
+    color: #000;
+}
+
+
 /*** FOOTER ***/
 
 #footer {
