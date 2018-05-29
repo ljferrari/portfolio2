@@ -161,12 +161,12 @@ li .nav-link:hover {
     text-align: left;
     text-transform: none;
     color:black;
-    font-size: 1.25em;
+    font-size: 1em;
     font-weight: 300;
     letter-spacing: 0.04em;
-    line-height: 2em;
+    line-height: 1.85em;
     padding: 0;
-    margin: 0 2em 2em 2em;
+    margin: 0 2em 0em 2em;
 }
 
 .medium,
@@ -293,6 +293,7 @@ li .nav-link:hover {
     left:0;
     padding: 1rem;
     height: 5.5rem;   
+    margin-top: 10em;
 }
 
 
@@ -343,11 +344,20 @@ a #cv {
 
     }
     
+ 
+    
     .about {
-    font-size: 1.5em;
     letter-spacing: 0.06em;
     margin: 0;
+    font-size: 1.25em;
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    line-height: 2em;
 }
+
+    p .bio {
+        font-size: 0.1em;
+    }
     
     #copywrite {
     margin-right: 2em;
