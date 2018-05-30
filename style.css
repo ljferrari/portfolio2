@@ -87,29 +87,33 @@ li a {
 }
 
 
-
-
-li .nav-link:hover {
-    content:"";
-    display: block;
+.nav-link-about:hover,
+.nav-link-work:hover,
+.active {
+    text-decoration: none;
     color: black;
     border-bottom: 3px solid #FF003A;
-    height: 2em;
-
 }
+
+.nav-link-about {
+    width: 4.3em;
+}
+
+.nav-link-work {
+    width: 3.8em;
+}
+
 
 .nav-item {
     text-align: center;
 }
 
 #about {
-    width:4.2em;
     margin: 2em auto 1em;
 }
 
 #work {
-    width:4em;
-    margin: 1em auto;
+    margin: 2em auto;
 }
 
 
@@ -242,12 +246,13 @@ li .nav-link:hover {
 }
 
 #portfolio .gusto .portfolio-box-caption {
-    background: rgba(255, 189, 0, 0.9);
+    background: rgba(255, 84, 0, 0.9);
 }
 
 #portfolio .soundscape .portfolio-box-caption {
     background: rgba(255, 0, 58, 0.9);
 }
+
 
 #portfolio .aqua .portfolio-box-caption {
     background: rgba(158, 0, 89, 0.9);
@@ -278,9 +283,36 @@ li .nav-link:hover {
 }
 
 .view-more {
-    padding-top: 4em;
+    padding-top: 6em;
     color: #000;
 }
+
+.margin {
+    margin-top: 2em;
+}
+
+.soundscape-title {
+    color: #FF003A;
+    padding-top: 1em;
+}
+
+.aqua-title {
+    color: #9E0059;
+    padding-top: 1em;
+}
+
+.gusto-title {
+    color: #FF5400;
+    padding-top: 1em;
+}
+
+.ocj-title {
+    color: #390099;
+    padding-top: 1em;
+}
+
+
+
 
 
 /*** FOOTER ***/
@@ -305,7 +337,7 @@ li .nav-link:hover {
 }
 
 .social-icon {
-    max-width: 48px;
+    width: 40px;
     margin-left: 0 auto;
 }
 
@@ -321,6 +353,45 @@ li .nav-link:hover {
 a #cv {
     text-decoration: none;
     color: #FF003A;
+}
+
+.circle {
+    padding: 0;
+    margin: 0 auto;
+    text-align:center;
+}
+
+
+.return {
+    border: solid 2px black;
+    border-radius: 100px;
+    padding: 1em 2em;
+    color: black;
+    margin: 1em 0;
+    display: inline-block;
+}
+
+.return-square {
+    border-radius: 5px;
+     border: solid 2px black;
+    padding: 1em 2em;
+    color: black;
+    margin: 2em 0;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.return-square:hover {
+    color: black;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.link-return:hover {
+    text-decoration: none;
 }
 
 
@@ -341,6 +412,7 @@ a #cv {
         font-size: 5em;
         text-transform: none;
         letter-spacing: 0.12rem;
+        margin-top: -0.1em;
 
     }
     
@@ -363,6 +435,15 @@ a #cv {
     margin-right: 2em;
     text-align: right;
     }
+    
+    .return {
+    border: solid 2px black;
+    border-radius: 100px;
+    padding: 1.5em 2em;
+    color: black;
+    margin: 1em 0;
+    display: inline-block;
+}
 
 }
 
