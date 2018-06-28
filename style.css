@@ -283,7 +283,8 @@ li a {
 }
 
 .view-more {
-    padding-top: 6em;
+    padding-top: 4em;
+    margin: 0 2em;
     color: #000;
 }
 
@@ -365,16 +366,16 @@ a #cv {
 .return {
     border: solid 2px black;
     border-radius: 100px;
-    padding: 1em 2em;
+    padding: 0.5em 2em;
     color: black;
-    margin: 1em 0;
+    margin: 1em 0 2em 0;
     display: inline-block;
 }
 
 .return-square {
-    border-radius: 5px;
+    border-radius: 100px;
      border: solid 2px black;
-    padding: 1em 2em;
+    padding: 0.5em 2em;
     color: black;
     margin: 2em 0;
     display: inline-block;
@@ -439,9 +440,9 @@ ul {
     .return {
     border: solid 2px black;
     border-radius: 100px;
-    padding: 1.5em 2em;
+    padding: 1em 2em;
     color: black;
-    margin: 1em 0;
+    margin: 1em 0 2em 0;
     display: inline-block;
 }
 
